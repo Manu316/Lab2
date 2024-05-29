@@ -31,7 +31,7 @@ public class Company {
                 return i;
             }
         }
-        return -1; // Not found
+        return -1;
     }
 
     public void deleteEmployee(String name) {
